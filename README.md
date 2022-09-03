@@ -54,7 +54,7 @@ Computer Science and Engineering. CGPA: **3.67** on a scale of 4
 **2017 - 2018, North South University, Dhaka, Bangladesh**
 
 - Got the best member award in Summer 2017.
-- • Co-managed a team of 100+ volunteers for a year.
+- Co-managed a team of 100+ volunteers for a year.
 
 ## **NSU Communications Club /** Senior Member
 
