@@ -45,7 +45,7 @@ Computer Science and Engineering. CGPA: **3.67** on a scale of 4
 - **Database** - Database designing & normalization, used tools like PhpMyAdmin and MySQL Workbench.
 - **Version Controlling -** Version controlling using GIT and SVN.
 - **Frameworks** - Experience in working with frameworks like Laravel, CodeIgniter, and Vue.js.
-- **CMS** - ****Making custom solutions for WordPress websites by developing plugins.
+- **CMS** - Making custom solutions for WordPress websites by developing plugins.
 
 # 🦸‍♂️ ****Volunteering Experience****
 
