@@ -40,7 +40,7 @@ Computer Science and Engineering. CGPA: **3.67** on a scale of 4
 
 # 🛠****Skills****
 
-- **Programming - Programming Object‑oriented & functional programming languages like PHP, C, C++, Java, and Python.**
+- **Programming - Object‑oriented & functional programming languages like PHP, C, C++, Java, and Python.**
 - **Development** - Drawing UML diagrams & flow charts and understanding user requirements, design patterns, clean code, clean architecture concepts and software development life cycle.
 - **Database** - Database designing & normalization, used tools like PhpMyAdmin and MySQL Workbench.
 - **Version Controlling -** Version controlling using GIT and SVN.
